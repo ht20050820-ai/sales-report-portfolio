@@ -34,7 +34,7 @@ python sales_report.py
 .
 ├─ sales_report.py
 ├─ sales_report_notebook.ipynb
-├─ Sales_Report_Portfolio.pdf   # PDFが必要なら同名で追加してください
+├─ Sales_Report_Portfolio.pdf   
 ├─ sales_data.csv
 ├─ outputs/
 │   ├─ monthly_sales.png
