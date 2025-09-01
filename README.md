@@ -15,7 +15,7 @@
   - 曜日別売上（棒）
 
 ## 成果物
-- レポート（DOCX）: [Sales_Report_Portfolio.docx](./Sales_Report_Portfolio.docx)
+- レポート（DOCX）: [Sales_Report_Portfolio.pdf](./Sales_Report_Portfolio.pdf)
 - Jupyter Notebook: [sales_report_notebook.ipynb](./sales_report_notebook.ipynb)
 - Pythonスクリプト: [sales_report.py](./sales_report.py)
 
@@ -34,7 +34,7 @@ python sales_report.py
 .
 ├─ sales_report.py
 ├─ sales_report_notebook.ipynb
-├─ Sales_Report_Portfolio.docx   # PDFが必要なら同名で追加してください
+├─ Sales_Report_Portfolio.pdf   # PDFが必要なら同名で追加してください
 ├─ sales_data.csv
 ├─ outputs/
 │   ├─ monthly_sales.png
