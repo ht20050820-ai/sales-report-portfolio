@@ -14,7 +14,7 @@
   - 曜日別売上（棒グラフ）
 
 ## 成果物
-- [PDFレポート](Sales_Report_Portfolio.pdf)
+- [PDFレポート](Sales_Report_Portfolio.docx)
 - [Jupyter Notebook](sales_report_notebook.ipynb)
 - [Pythonスクリプト](sales_report.py)
 
